@@ -1,0 +1,46 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    text-align: center;
+    color: blue;
+    text-transform: uppercase;
+    border-bottom: 2px dashed green;
+}
+
+.buttonload {
+    background-color: red;
+    border: none;
+    color: blue;
+    padding: 12px 24px;
+    font-size: 20px;
+    border-radius: 5%;
+    margin: 10px;
+    font-weight: bold;
+}
+
+
+/* Add a right margin to each icon */
+
+.fa {
+    margin-left: -12px;
+    margin-right: 8px;
+}
+
+.red {
+    background: red;
+    color: white;
+}
+
+.blue {
+    background: blue;
+    color: yellow;
+}
+
+.green {
+    background: green;
+    color: light blue;
+}
